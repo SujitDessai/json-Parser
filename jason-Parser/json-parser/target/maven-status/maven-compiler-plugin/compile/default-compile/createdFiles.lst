@@ -1,0 +1,5 @@
+com\util\HSQLDBUtil.class
+com\util\Utility.class
+com\Application.class
+com\util\JDBCUtils.class
+com\model\Event.class
